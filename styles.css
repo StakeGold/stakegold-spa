@@ -1,0 +1,49 @@
+main {
+    
+    /* background-image: url('assets/stakegold_cover.png');
+    background-size: 100%; */
+    background-color: rgb(26,28,23);
+    background-color: linear-gradient(90deg, rgba(26,28,23,1) 11%, rgba(87,76,44,1) 40%);
+  /* width: 100%;
+  height: 100%;
+  background-repeat: no-repeat;
+  background-attachment: fixed; */
+}
+
+nav {
+
+  background-color: rgb(26,28,23);
+}
+
+.header {
+    background-color: #1F2937;
+    display: flex;
+    flex-direction: row;  
+    justify-content: space-between; 
+    align-items: center;
+    padding: 0 15% 10% 15%;
+}
+
+/* #jumbo1 {
+    background-image: linear-gradient(
+  280deg,
+  hsl(50deg 80% 22%) 0%,
+  hsl(49deg 72% 21%) 3%,
+  hsl(49deg 65% 20%) 6%,
+  hsl(48deg 59% 18%) 11%,
+  hsl(48deg 52% 17%) 18%,
+  hsl(47deg 45% 15%) 26%,
+  hsl(47deg 38% 14%) 35%,
+  hsl(46deg 29% 12%) 48%,
+  hsl(47deg 18% 11%) 64%,
+  hsl(60deg 4% 9%) 99%
+);
+} */
+
+.gold {
+    color: #D39C38;
+}
+
+.goldbg {
+  background-color: #D39C38;
+}
